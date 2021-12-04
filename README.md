@@ -1,4 +1,4 @@
-# Latex-Templates-
+# Latex-Templates
 
 ## JF_Template: 
 A template for preparing an accepted paper for publication in the Journal of Finance. Reuses parts of Richard Stanton's packages. Contains a main text as well as an internet appendix with examples of equations, figures, and references.
